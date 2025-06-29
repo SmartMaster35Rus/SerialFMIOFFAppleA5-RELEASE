@@ -22,7 +22,7 @@
 
 ## Установка
 
-1. Скачайте последнюю версию приложения из раздела [Releases](https://github.com/yourusername/SerialFMIOFFAppleA5/releases) на GitHub.
+1. Скачайте последнюю версию приложения из раздела [Releases](https://github.com/SmartMaster35Rus/SerialFMIOFFAppleA5/releases) на GitHub.
 2. Переместите `SerialFMIOFFAppleA5.app` в папку `Программы` (`/Applications`).
 3. Запустите приложение из папки программ.
 
